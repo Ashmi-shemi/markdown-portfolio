@@ -1,3 +1,3 @@
-[emoji]
-[ordered]
-[unordered]
+* emoji
+* ordered
+* unordered
